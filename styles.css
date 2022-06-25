@@ -1,7 +1,46 @@
 body{
-    background-color: aqua;
+    background-color: whitesmoke;
 }
 
 nav{
     display: block;
+}
+thead{
+    background-color: red;
+    color: white;
+    font-size: 300%;
+}
+table{
+    width: 100%;
+
+}
+
+tbody{
+    font-size: 200%;
+}
+img{
+    width: 2%;
+    height: 2%;
+}
+header{
+    text-align: center;
+    display: block
+}
+caption{
+    font-size: 200%;
+}
+img.campos{
+    width: 10%;
+    height: 10%;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    position: absolute;
+    
+}
+
+img.header{
+    width: 20%;
+    height: 20%;
 }
